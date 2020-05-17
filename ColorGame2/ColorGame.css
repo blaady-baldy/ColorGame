@@ -21,7 +21,7 @@ h1{
 #PickedColor {
 	font-size : 200%;
 }
-#container {
+.container {
 	margin : 0 auto;
 	max-width: 600px;
 }
