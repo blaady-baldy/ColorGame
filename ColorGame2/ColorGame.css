@@ -22,7 +22,7 @@ h1{
 	font-size : 200%;
 }
 #container {
-	margin : 0;
+	margin : 0 auto;
 	max-width: 600px;
 }
 
