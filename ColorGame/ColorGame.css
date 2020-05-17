@@ -56,6 +56,7 @@ button {
 	font-weight: bold;
 	text-transform: uppercase; 
 	letter-spacing: 1px;
+	margin: 0;
 }
 
 button:hover {
@@ -67,4 +68,24 @@ button:hover {
 .selected {
 	background-color: steelblue;
 	color : white;
+}
+
+#tut {
+	display: none;
+	font-size: 1.5em;
+}
+
+strong {
+	font-size: 1.2em;
+}
+
+#red {
+	background-color: red;
+}
+#green {
+	background-color: green;
+}
+
+#blue {
+	background-color: blue;}
 }
